@@ -1,0 +1,44 @@
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.AccountantForm.resources
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.InventoryControllerForm.resources
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.LoginForm.resources
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.MISManagerForm.resources
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.OrderClerksForm.resources
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.SalesManagerForm.resources
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\EntityFramework.dll
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\EntityFramework.xml
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CopyComplete
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Database.mdf
+C:\Users\zhangzhibo\source\repos\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Database_log.ldf
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\EntityFramework.dll
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\EntityFramework.xml
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.AccountantForm.resources
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.InventoryControllerForm.resources
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.LoginForm.resources
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.MISManagerForm.resources
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.OrderClerksForm.resources
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.SalesManagerForm.resources
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CopyComplete
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\HiTechDB.mdf
+C:\Users\zhangzhibo\Desktop\Final Project\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\HiTechDB_log.ldf
